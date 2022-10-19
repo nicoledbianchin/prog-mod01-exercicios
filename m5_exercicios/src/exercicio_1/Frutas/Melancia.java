@@ -1,4 +1,4 @@
-package Frutas;
+package exercicio_1.Frutas;
 
 public class Melancia extends Fruta{
     private double precoAdicional;

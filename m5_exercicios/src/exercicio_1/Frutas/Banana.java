@@ -1,4 +1,4 @@
-package Frutas;
+package exercicio_1.Frutas;
 
 public class Banana extends Fruta{
     private String tipo;
